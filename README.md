@@ -7,3 +7,5 @@
 - 📫 All my projects are available at -> [https://github.com/DepayanMondal]
 
 [![Depayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DepayanMondal)](https://github.com/DepayanMondal/github-readme-stats)
+![Depayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DepayanMondal&show_icons=true&theme=radical)
+
