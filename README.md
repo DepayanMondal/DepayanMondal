@@ -1,3 +1,5 @@
+https://img.shields.io/github/followers/DepayanMondal?style=social
+
 ### Hi there, I'm Depayan Mondal 👋
 
 
