@@ -1,4 +1,4 @@
-###   Hi there, I'm Depayan Mondal 👋
+  ### Hi there, I'm Depayan Mondal 👋
 
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m also learning DSA
