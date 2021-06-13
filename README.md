@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with JavaScript
 - 📫 All my projects are available at -> [https://github.com/DepayanMondal]
 
-![Depayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DepayanMondal&show_icons=true&theme=radical)
+![Depayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DepayanMondal&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DepayanMondal)](https://github.com/DepayanMondal/github-readme-stats)
 
 
