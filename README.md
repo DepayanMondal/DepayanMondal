@@ -1,5 +1,4 @@
 ### Hi there, I'm Depayan Mondal 👋
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DepayanMondal?style=social">
 
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m also learning DSA
