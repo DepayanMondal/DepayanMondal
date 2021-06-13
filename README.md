@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DepayanMondal&layout=compact)](https://github.com/DepayanMondal/github-readme-stats) 
 ![Depayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DepayanMondal&hide=issues,prs)
 
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DepayanMondal?style=social">
