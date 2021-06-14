@@ -1,5 +1,3 @@
-  ### Hi there, I'm Depayan Mondal 👋
-
 <h1 align="center">Hi 👋, I'm Depayan Mondal</h1>
 <h3 align="center">A passionate developer from India keen on learning new technologies.</h3>
 
