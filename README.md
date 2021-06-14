@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at **-> [https://github.com/DepayanMondal]**
-
 - 🔭 I’m also learning **DSA**
+
+- 👨‍💻 All of my projects are available at **-> [https://github.com/DepayanMondal]**
 
 - 🤝 I’m looking for help with **JavaScript**
 
