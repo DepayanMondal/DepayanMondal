@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🔭 I’m also learning **DSA**
+- 🔭 I’m also learning **DSA** 
 
 - 👨‍💻 All of my projects are available at **-> [https://github.com/DepayanMondal]**
 
